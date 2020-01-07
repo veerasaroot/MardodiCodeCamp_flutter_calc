@@ -1,6 +1,5 @@
 # Calculator - Flutter Mobile App
-Do you have Instagram in the future? I decided to revise the usual view of the mobile network for all users and create a photo Frame.
-
+Calculator is the essential tool for your smartphone, simple and easy to use with a sleek design - the perfect calculator for Android & IOS.
 ![Preview](https://cdn.freelance.ru/img/portfolio/pics/00/39/FC/3800245.jpg?mt=177f171e)
 
 
